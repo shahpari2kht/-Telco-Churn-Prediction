@@ -1,0 +1,16 @@
+# --- Core libraries for Data Science ---
+numpy
+pandas
+
+# --- Data Visualization ---
+matplotlib
+seaborn
+
+# --- Machine Learning ---
+scikit-learn
+
+# --- Jupyter Notebook (Notebook files execution) ---
+jupyter
+
+# --- (Optional, common in data science workflow) ---
+# ipywidgets        # اگر از ویجت‌های این لایبرری در Jupyter استفاده کرده‌ای، باز بگذار
